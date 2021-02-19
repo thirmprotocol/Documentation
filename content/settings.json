@@ -1,0 +1,11 @@
+{
+  "title": "THIRM DOCS",
+  "url": "https://docs.thirm.com",
+  "logo": {
+    "light": "/logo-light.png",
+    "dark": "/logo-dark.png"
+  },
+  "github": "thirmprotocol/Docs",
+  "defaultDir": "",
+  "twitter": "thirmprotocol"
+}
