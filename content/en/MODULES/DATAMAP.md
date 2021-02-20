@@ -17,4 +17,4 @@ This helps solve following problems
 
 ## Smart Contract Address
 
-https://etherscan.io/address/0x52540F6E845d12bAD6b328b2Fbb9D54b902ee8e6
+https://bscscan.com/token/0x21da60b286baefd4725a41bb50a9237eb836a9ed
