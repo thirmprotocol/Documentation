@@ -9,7 +9,7 @@ Tokenomics is the study of how cryptocurrencies work within the broader ecosyste
 
 ## Inflation 
 
-THIRM TOKEN is inflated by the rate of 0.1% every 10 days (3.7155% per year), this expansion goes to UNISWAP Liquidity Pool (THIRM-USDC).
+THIRM TOKEN is inflated by the rate of 0.1% every 10 days (3.7155% per year), this expansion goes to UNISWAP Liquidity Pool (THIRM-BNB).
 
 Optional - Depends on users, if they think uniswap Lp is low they can call themself.
 
