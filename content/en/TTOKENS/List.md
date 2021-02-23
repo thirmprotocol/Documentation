@@ -14,24 +14,15 @@ Coin Ticker : NANO
 
 T-Token Ticker : tNANO
 
-Smart Contract : 0x9DB44C215F14a874C0Ca45895f3A97f0839c29d9
+Smart Contract : 0x8edf45a12c27a226d2849f81641dc9792dab417c
 
-Etherscan : https://etherscan.io/address/0x9DB44C215F14a874C0Ca45895f3A97f0839c29d9
+Etherscan : https://bscscan.com/token/0x8edf45a12c27a226d2849f81641dc9792dab417c
 
 Website : https://nano.org
 
 Coingecko : https://www.coingecko.com/en/coins/nano
 
-## Bitcoin
-
-Coin Ticker : BTC
-
-T-Token Ticker : tBTC
-
-Smart Contract : 0x36910c9695C1286c9377CEbc61D37bDEFcFdeAC6
-
-Etherscan : https://etherscan.io/address/0x36910c9695C1286c9377CEbc61D37bDEFcFdeAC6
-
-Website : https://www.bitcoin.org
-
-Coingecko : https://www.coingecko.com/en/coins/bitcoin
+## Coming soon
+- Bitcoin (BTC)
+- Monero (XMR)
+- Lite Coin (LTC)

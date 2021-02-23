@@ -9,15 +9,11 @@ THIRM Token links
 
 ## Smart Contract
 
-Etherscan : https://etherscan.io/token/0xb526fd41360c98929006f3bdcbd16d55de4b0069
+BscScan : https://bscscan.com/token/0x21da60b286baefd4725a41bb50a9237eb836a9ed
 
 ## Trade
 
-Matcha : https://matcha.xyz/markets/0xb526fd41360c98929006f3bdcbd16d55de4b0069
-
-Uniswap : https://uniswap.info/token/0xb526fd41360c98929006f3bdcbd16d55de4b0069
-
-Mooniswap : https://mooniswap.info/token/0xb526fd41360c98929006f3bdcbd16d55de4b0069
+Pancakeswap : https://pancakeswap.info/token/0x21da60b286baefd4725a41bb50a9237eb836a9ed
 
 ## Price
 

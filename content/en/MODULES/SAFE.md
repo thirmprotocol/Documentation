@@ -17,5 +17,3 @@ On top of that, the Gnosis Safe multisig gives you complete self custody over yo
 ## Reference
 https://help.gnosis-safe.io/en/articles/3876456-what-is-a-multisig-wallet
 
-## Smart Contract Address
-https://etherscan.io/address/0x170902c0de4fec18ca5a70ad690dfeb1d5314df0
