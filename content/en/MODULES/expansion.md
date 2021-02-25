@@ -1,7 +1,6 @@
 ---
 title: Expansion
-description: ''
-position: 1
+position: 3
 category: 'MODULES'
 ---
 
