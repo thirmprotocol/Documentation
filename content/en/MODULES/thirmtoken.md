@@ -1,6 +1,5 @@
 ---
 title: Token
-description: ''
 position: 1
 category: 'MODULES'
 ---
