@@ -1,6 +1,5 @@
 ---
 title: Safe
-description: ''
 position: 8
 category: 'MODULES'
 ---
