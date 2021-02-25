@@ -1,3 +1,13 @@
+---
+title: Expansion
+description: ''
+position: 1
+category: 'MODULES'
+---
+
+
+
+
 Allow to Infalte THIRM TOKEN by 0.1% 
 
 Can only be called 10 days
