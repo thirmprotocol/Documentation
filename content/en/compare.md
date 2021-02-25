@@ -11,7 +11,7 @@ category: ''
 | Withdrawal | No |  Yes |  Yes |
 | Data Storage | - |  Database |  Smart Contract |
 | Trustless | - | Yes | Yes |
-| Fees | - | 0.1% + Network fees | 0.5 THIRM Burn |
+| Fees | - | 0.1% + Network fees | 0.1% + Network fees |
 | Supported Blockchains  | 1 |  3 |  5 |
 | Governance Voting| - | - | Yes |
 | Proof of Funds  | Yes |  Yes |  Yes |
