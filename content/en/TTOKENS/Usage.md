@@ -7,15 +7,14 @@ category: 'T TOKENS'
 
 ## Deposit
 
-Before you can get started with deposits, you need to get your address mapped by signature. An easy way to do that will be to leave an email to developer@thirm.com letting them know that you need your address mapped manually.
-
-After your address is mapped, you can proceed with deposit, and it is easy as shown below:
+Map your address if its first time
 
 Enter your mapped address
 
 Deposit on QR code shown
 
 Done; protocol will send you money in the next block.
+
 
 ## Withdraw
 
