@@ -19,4 +19,4 @@ This helps solve following problems
 
 ## Smart Contract Address
 
-0x3db754Cce4A8e4654bF3D70C03C3b4Cbd23E2DbD
+0xe45497a606840C94aAdb72bDb8f52cf21C724618
