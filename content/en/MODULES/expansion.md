@@ -10,4 +10,4 @@ Expansion Module is a smart contract responsible for infalting the THIRM TOKEN s
 - Inflated funds goes to Thirm Tresury.
 
 ## Smart Contract Address
-0xe45497a606840C94aAdb72bDb8f52cf21C724618
+0x720c74eBE8d2A3A32cCbAD15F56e134cE54C63D7
