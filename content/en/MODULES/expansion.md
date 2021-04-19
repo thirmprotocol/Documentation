@@ -7,8 +7,9 @@ category: 'MODULES'
 Expansion Module is a smart contract responsible for infalting the THIRM TOKEN supply. 
 
 ## Rules
+
 - Funds goes to Thirm Tresury.
-- Max 17.5 THIRM infaltion Per Day.
+- Max 17.5 THIRM Infaltion Per Day (reduces over time).
 
 ## Usage 
 
