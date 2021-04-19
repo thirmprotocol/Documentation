@@ -8,4 +8,4 @@ category: 'MODULES'
 
 ## Smart Contract Address
 
-0x73E55D5FcEaabEd1d2254986060e82ed004bB549
+0x1B5da31bB3ED46EfaFa9d23205e41a7e7400D11d
