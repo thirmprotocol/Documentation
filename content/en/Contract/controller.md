@@ -1,7 +1,6 @@
 ---
 title: Controller
-position: 5
-category: 'MODULES'
+category: 'Contract'
 ---
 
 

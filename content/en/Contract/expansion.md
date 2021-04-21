@@ -1,15 +1,10 @@
 ---
 title: Expansion
-position: 7
-category: 'MODULES'
+category: 'Contract'
 ---
 
-Expansion Module is a smart contract responsible for infalting the THIRM TOKEN supply. 
+Expansion Module is a smart contract responsible for infalting the THIRM TOKEN Supply by 8.64 Tokens Per Day.
 
-## Rules
-
-- Funds goes to Thirm Tresury.
-- Max 17.5 THIRM Infaltion Per Day (reduces over time).
 
 ## Usage 
 
@@ -20,4 +15,5 @@ Expansion Module is a smart contract responsible for infalting the THIRM TOKEN s
 - Liquidy Growth 
 
 ## Smart Contract Address
+
 0x720c74eBE8d2A3A32cCbAD15F56e134cE54C63D7

@@ -1,7 +1,6 @@
 ---
 title: Mapping
-position: 2
-category: 'MODULES'
+category: 'Contract'
 ---
 
 Since THIRM VM needs to be atomic, which is why we do not use any local database. To store various mapping we use smart contracts to map all the needed data.

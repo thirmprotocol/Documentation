@@ -1,7 +1,6 @@
 ---
 title: Safe
-position: 8
-category: 'MODULES'
+category: 'Contract'
 ---
 
 Most users of Ethereum are used to a single key wallet, often referred to as an externally owned account (EOA). These accounts are secured with a private key, which can be transformed into a 12 word “seed phrase” for the user. If that private key is compromised in any way, the funds can be stolen.
