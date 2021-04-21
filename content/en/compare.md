@@ -9,12 +9,9 @@ category: ''
 |---|---|---|---|
 | Deposit  | No |  Yes |  Yes |
 | Withdrawal | No |  Yes |  Yes |
-| Data Storage | - |  Database |  Smart Contract |
 | Trustless | - | Yes | Yes |
 | Fees | - | 0.1% | 0.1% |
 | Supported Blockchains  | 1 |  3 |  5 |
 | Governance Voting| - | - | Yes |
 | Proof of Funds  | Yes |  Yes |  Yes |
-| Insured  | No |  No |  No* |
-
-*A suitable insurance provider is currently in the process of being selected
+| Insured  | No |  No |  No |

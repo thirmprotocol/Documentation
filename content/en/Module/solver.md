@@ -1,9 +1,10 @@
 ---
-title: Introduction
-description: 'Thirm VM is the backbone of the Thirm ecosystem. It is a powerful engine that enables cross-chain access to your cryptocurrencies. THIRM VM is a permissionless, abstract all-in-one AI-Driven Machine linked to multiple blockchains, providing a bridge that allows smart contracts to request data and process commands.'
-position: 1
-category: 'THIRM VM'
+title: Solver
+description: 'THIRM TOKEN'
+position: 2
+category: 'module'
 ---
+
 
 Thirm VM is the backbone of the Thirm ecosystem. It is a powerful engine that enables cross-chain access to your cryptocurrencies. THIRM VM is a permissionless, abstract all-in-one AI-Driven Machine linked to multiple blockchains, providing a bridge that allows smart contracts to request data and process commands.
 
@@ -16,3 +17,5 @@ THIRM VM is a trustless custodian that holds digital assets as they move between
 THIRM VM handles cross-chain deposits and withdrawals via the automatic exchange between native currencies and T-Tokens. Because an Ethereum Contract cannot interact with other blockchains, THIRM VM gets a question/operation from the smart contract, which it processes and updates back to the smart contract. This makes the whole process easy to use and verifiable by anyone on the Ethereum blockchain.
 
 THIRM VM runs 24/7 and allows trustless configuration. Users can run THIRM VM as well and get rewarded with THIRM Tokens for submitting solutions to THIRM Protocol.
+
+

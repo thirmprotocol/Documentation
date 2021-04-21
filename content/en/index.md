@@ -10,6 +10,8 @@ category: ''
 
 **THIRM** is a protocol that allows users to access cryptocurrency assets between multiple blockchains . 
 
+<img src="/overview.png"  width="1280" height="640" alt=""/>
+
 ## Abstract
 
 With the increase in DEFI & lot of apps are being built on various blockchains, but these blockchains run on different codebase which makes using the apps from blockchain A impossible on blockchain B
