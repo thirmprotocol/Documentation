@@ -9,5 +9,5 @@ THIRM BRIDGE is a ui tool that allows you to access smart contracts and exchange
 
 
 
-## Website
+## Links
 https://bridge.thirm.com
