@@ -30,3 +30,7 @@ THIRM VM is built with a vision for the future and the THIRM token is the fuel f
 ## Supply 
 
 All the above-given factors make THIRM's total supply of token a dynamic ever-changing variable (Deflationary), that can always be viewed on our Ethereum contract.
+
+
+## Smart Contract 
+https://bscscan.com/token/0x21da60b286baefd4725a41bb50a9237eb836a9ed
