@@ -3,16 +3,15 @@ title: Mapping
 category: 'Contract'
 ---
 
-Since THIRM VM needs to be atomic, which is why we do not use any local database. To store various mapping we use smart contracts to map all the needed data.
+Since THIRM Solvers are atomic, there is no need for local database, instead, superior smart contracts can be and are used like in this instance. THIRM used smart contract to store various mapping to map all the needed data.
 
+This helps solve the following problems: 
 
-This helps solve following problems
+1. **Data Integrity** - Since all the data are mapped one by one, it ensures that data is not lost and is accurate and consistent.
 
-1. Data Integrity - Since all data is mapped one by one, it ensure that der is always order.
+2. **Abstraction** - Keeps Solvers from taking direct input which prevents 100% hacking attempts or DDOS attacks.
 
-2. Abstraction - Keeps VM from taking direct input, thus preventing 100% of hacking attempt or DDOS attacks.
-
-3. Trustless - makes whole environment trustless, everything is on blockchain and can be verified with ease across blockchain.
+3. **Trustless** - makes the whole environment trustless, everything is on blockchain and can be verified with ease across the blockchain.
 
 
 
