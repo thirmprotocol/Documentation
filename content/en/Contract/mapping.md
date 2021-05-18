@@ -14,7 +14,6 @@ This helps solve the following problems:
 3. **Trustless** - makes the whole environment trustless, everything is on blockchain and can be verified with ease across the blockchain.
 
 
-
 ## Smart Contract Address
 
 0xE47924aDc1F8530Ae34E67431D3a13AbCF5f95cF
