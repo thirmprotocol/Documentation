@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: ipfs
 on: [push]
 jobs:
  build-and-deploy:
@@ -19,10 +19,6 @@ jobs:
       npm run build
       npm run generate
 
-   - name: Deploy
-     uses: JamesIves/github-pages-deploy-action@3.7.1
-     with:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      BRANCH: dist
-      FOLDER: dist
-      CLEAN: true
+   - name: Upload 
+     run: |
+      npx ipfs-deploy ./dist  
